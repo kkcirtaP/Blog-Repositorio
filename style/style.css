@@ -1,0 +1,101 @@
+@font-face {
+    font-family: UnifrakturCook;
+    src: url(../fonts/UnifrakturCook/UnifrakturCook-Bold.ttf);
+}
+
+.logo{
+    font-family: UnifrakturCook;
+    font-size: 2rem;
+    color: black;
+}
+
+.carousel-caption{
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+body{
+    background:-moz-linear-gradient(45deg, gray, white);
+}
+
+.accordion-item{
+    border-color: rgba(0, 0, 0, 0.8);
+}
+
+.card{
+    border-color: rgba(0, 0, 0, 0.5);
+}
+
+.carousel-indicators{
+    border-color: black;
+}
+
+.fa-instagram:hover{
+    background-color: orange;
+    border-radius: 11px;
+}
+
+.fa-linkedin:hover{
+    background-color: rgb(0, 162, 255);
+    border-radius: 11px;
+}
+
+.fa-whatsapp:hover{
+    background-color: greenyellow;
+    border-radius: 11px;
+}
+
+.accordion-button:hover{
+    background-color:gray;
+}
+
+.accordion-button{
+    border: none;
+    user-select: none;
+}
+
+.accordion-button:focus{
+    outline: 0;
+    box-shadow: 0 0 0 0;
+    background-color: white;
+}
+
+.accordion-header:focus{
+    color: white;
+}
+
+code{
+    color: #85B1F1;
+}
+
+.giga{
+    color: lawngreen;
+}
+
+.giga2{
+    color: rgb(0, 136, 0);
+}
+
+.btncard{
+    background-color: #85B1F1;
+    border: #85B1F1 1px;
+    color: white;
+}
+
+.btncard:hover{
+    background-color: #5d96ec;
+    border: #5d96ec 1px;
+    color: white;
+}
+
+.card-img-top{
+    height: 300px;
+    width: 100%;
+}
+
+.carousel-item{
+    height: 410px;
+}
+
+.fa-codelogo{
+    color: white;
+}
